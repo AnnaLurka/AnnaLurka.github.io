@@ -2,7 +2,7 @@
 
 $(document).ready(function() {
   //const apiRoot = 'http://localhost:8080/v1/';
-  const apiRoot = 'https://peaceful-taiga-36918.herokuapp.com/v1/task/';
+  const apiRoot = 'https://peaceful-taiga-36918.herokuapp.com/v1/';
   //const trelloApiRoot = 'http://localhost:8080/v1/trello/';
   const trelloApiRoot = 'https://peaceful-taiga-36918.herokuapp.com/v1/trello/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
